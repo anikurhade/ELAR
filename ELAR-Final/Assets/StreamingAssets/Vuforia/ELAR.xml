@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="drake-sing" size="11.000000 14.666667" />
+    <ImageTarget name="dns" size="11.000000 4.950000" />
+    <ImageTarget name="heartvid" size="11.000000 8.213333" />
+    <ImageTarget name="Drill-press" size="15.000000 18.145161" />
+    <ImageTarget name="graphicback" size="100.000000 48.828125" />
+    <ImageTarget name="thankyou" size="1500.000000 1125.000000" />
+    <ImageTarget name="msd" size="1500.000000 937.500000" />
+    <ImageTarget name="sachinpil" size="1500.000000 1500.000000" />
+    <ImageTarget name="ashoksar" size="1500.000000 1260.000000" />
+    <ImageTarget name="tomcrus" size="1500.000000 1125.000000" />
+    <ImageTarget name="drake" size="1500.000000 1850.727539" />
+    <ImageTarget name="dormon" size="1500.000000 1773.981567" />
+    <ImageTarget name="tony" size="1500.000000 1500.000000" />
+    <ImageTarget name="robot-proj" size="1500.000000 1147.500000" />
+    <ImageTarget name="graphic2" size="1500.000000 843.750000" />
+    <ImageTarget name="brain2" size="0.150000 0.120000" />
+    <ImageTarget name="robot" size="0.150000 0.154918" />
+    <ImageTarget name="fan" size="0.150000 0.099828" />
+    <ImageTarget name="DB" size="0.150000 0.084235" />
+    <ImageTarget name="brain" size="0.150000 0.120667" />
+    <ImageTarget name="heart" size="0.150000 0.162101" />
+    <ImageTarget name="ic" size="0.150000 0.112200" />
+    <ImageTarget name="building" size="0.150000 0.098906" />
+    <ImageTarget name="motor" size="0.150000 0.120000" />
+    <ImageTarget name="Bridge" size="0.150000 0.099961" />
+  </Tracking>
+</QCARConfig>
