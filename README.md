@@ -47,3 +47,5 @@ This software will allow students to great extend to understand the concepts eas
 |---|---|---|
 |<img src="https://user-images.githubusercontent.com/63186413/138666834-cb4e6ad9-28ea-4814-9412-85ea70e1224c.png" width="300"/>|<img src="https://user-images.githubusercontent.com/63186413/138666897-eb06bac9-07a5-4cde-8be9-1a870a6e9dca.png" width="300"/>|<img src="https://user-images.githubusercontent.com/63186413/138666975-f5965f85-97d8-41f7-8f0b-2bbf257ba5ff.png" width="300"/>|
 
+Thank you for visiting!
+
